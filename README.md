@@ -24,11 +24,13 @@ Outside of code, I'm into **aviation** (the 777 in my username is a **Boeing 777
 I'm following a structured **5-phase roadmap** from Python basics to deep learning. No shortcuts.
 
 ```
-  ✅  Phase 1 · Python Foundations
-  ✅  Phase 2 · Data Manipulation & Visualization
-  ⏳  Phase 3 · Math for ML                    ← here
-  ·   Phase 4 · Machine Learning Core
-  ·   Phase 5 · Deep Learning & AI
+| Status | Phase |
+|--------|-------|
+| ✅ | **Phase 1** · Python Foundations |
+| ✅ | **Phase 2** · Data Manipulation & Visualization |
+| ⏳ | **Phase 3** · Math for ML ← *currently here* |
+| 🔜 | **Phase 4** · Machine Learning Core |
+| 🔜 | **Phase 5** · Deep Learning & AI |
 ```
 
 > Full breakdown with topics, progress & code → **[ml-learning-journey](https://github.com/r3sh777/ml-learning-journey)**
