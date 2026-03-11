@@ -11,17 +11,20 @@
 
 ---
 
-## Heyyy! 👋
+## Hey👋
 
-I'm an undergrad studying **AI & Machine Learning** and I'm genuinely obsessed with where this field is going. I started this GitHub to hold myself accountable. 
+I'm an undergrad studying **AI & Machine Learning** and currently building my foundation in data analysis and machine learning. I started this GitHub to hold myself accountable. 
 
-Outside of code, I'm into **aviation** (the 777 in my username is a **Boeing 777** reference — one of my all-time favourite aircraft ✈️). There's something about the engineering behind a plane that 43 tonnes of metal can fly that got me hooked on understanding how things work, which honestly isn't that different from why I love ML.
+Outside of code, I'm into **aviation**.  
+The *777* in my username is a **Boeing 777** reference — one of my favourite aircraft. 
+
+The engineering behind how something that massive can fly is what originally got me interested in understanding complex systems — which is also what pulled me toward machine learning.
 
 ---
 
 ## 🧭 Where I'm Headed
 
-I'm following a structured **5-phase roadmap** from Python basics to deep learning. No shortcuts.
+I'm following a structured **5-phase roadmap** from Python basics to deep learning. 
 
 | Status | Phase |
 |--------|-------|
