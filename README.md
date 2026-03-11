@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 ## Hey👋
 
 I'm an undergrad studying **AI & Machine Learning** and currently building my foundation in data analysis and machine learning. I started this GitHub to hold myself accountable. 
