@@ -23,7 +23,6 @@ Outside of code, I'm into **aviation** (the 777 in my username is a **Boeing 777
 
 I'm following a structured **5-phase roadmap** from Python basics to deep learning. No shortcuts.
 
-```
 | Status | Phase |
 |--------|-------|
 | ✅ | **Phase 1** · Python Foundations |
@@ -31,7 +30,6 @@ I'm following a structured **5-phase roadmap** from Python basics to deep learni
 | ⏳ | **Phase 3** · Math for ML ← *currently here* |
 | 🔜 | **Phase 4** · Machine Learning Core |
 | 🔜 | **Phase 5** · Deep Learning & AI |
-```
 
 > Full breakdown with topics, progress & code → **[ml-learning-journey](https://github.com/r3sh777/ml-learning-journey)**
 
@@ -56,6 +54,13 @@ I'm following a structured **5-phase roadmap** from Python basics to deep learni
 ### [🎓 ML Learning Journey](https://github.com/r3sh777/ml-learning-journey)
 
 A fully documented repo tracking my progression from **Python basics to production ML**. Real datasets, real cleaning pipelines, real visualizations — and a phase-by-phase roadmap with live status tracking.
+
+A few things I've already uncovered:
+- **Study hours** matter far more than motivation levels in student performance data
+- Only **38% of Titanic passengers** survived — and women were twice as likely to make it
+- A single **Seaborn heatmap** can reveal patterns that would take hours to find manually
+
+It's not polished. It's **progress** — and that's exactly the point.
 
 ---
 
