@@ -16,9 +16,7 @@
 I'm an undergrad studying **AI & Machine Learning** and currently building my foundation in data analysis and machine learning. I started this GitHub to hold myself accountable. 
 
 Outside of code, I'm into **aviation**.  
-The *777* in my username is a **Boeing 777** reference — one of my favourite aircraft. 
-
-The engineering behind how something that massive can fly is what originally got me interested in understanding complex systems — which is also what pulled me toward machine learning.
+The *777* in my username is a **Boeing 777** reference — one of my favourite aircraft. The engineering behind how something that massive can fly is what originally got me interested in understanding complex systems — which is also what pulled me toward ML.
 
 ---
 
@@ -63,7 +61,7 @@ A few things I've already uncovered:
 - Only **38% of Titanic passengers** survived — and women were twice as likely to make it
 - A single **Seaborn heatmap** can reveal patterns that would take hours to find manually
 
-It's not polished. It's **progress** — and that's exactly the point.
+It's not polished. It's **progress**.
 
 ---
 
